@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aedomaia10@gmail.coom**
 
-- ⚡ Fun fact **FCE Cambridge**
+- ⚡ **FCE Cambridge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
