@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maia</h1>
-<h3 align="center">A passionate Full-Stack developer student form Argentina</h3>
+<h3 align="center">A passionate Full-Stack development student form Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maia-aedo&label=Profile%20views&color=ef93fb&style=flat" alt="maia-aedo" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aedomaia10@gmail.coom**
 
-- ⚡ **FCE Cambridge**
+- ⚡ **B2 Cambridge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
