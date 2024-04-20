@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maia-aedo&label=Profile%20views&color=ef93fb&style=flat" alt="maia-aedo" /> </p>
 
-- 🌱 I’m currently learning **React, Postman**
+- 🌱 I’m currently learning **React, Postman, API Rest**
 
 - 📫 How to reach me **aedomaia10@gmail.coom**
 
