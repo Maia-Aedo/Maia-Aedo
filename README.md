@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Postman, API Rest**
 
-- 📫 How to reach me **aedomaia10@gmail.coom**
+- 📫 How to reach me **aedomaia10@gmail.com**
 
 - ⚡ **B2 Cambridge**
 
